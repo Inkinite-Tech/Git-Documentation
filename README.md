@@ -24,37 +24,22 @@ git-stash
 Git IDE
 
 1. Cycligent Git (https://www.cycligent.com/git-tool)
-    . See the status of all the submodules at a glance from the main screen of the UI
-    . Pull and push submodules in ease
-    . Create and switch branches across all submodules
-    . View what changes your coworkers are making to submodules/micro-repositories before you pull them
-    . Easily make changes to submodules/micro-repositories and multiple branches, especially restricted branches.
-    . Specify branches that are common to all submodules/micro-repositories
-    . Perform functions on a given common branch across all submodules
-    . Exclude a given micro-repository from group actions.  
+ See the status of all the submodules at a glance from the main screen of the UI. Pull and push submodules in ease .Helps to create and switch branches across all submodules.Can view what changes your coworkers are making to submodules/micro-repositories before you pull them.Can easily make changes to submodules/micro-repositories and multiple branches, especially restricted branches. Specify branches that are common to all submodules/micro-repositories.Performs functions on a given common branch across all submodules.
 
 PROS:Runs on Windows, Mac, and Linux
-     Uses the Electron framework, which is heavyweight but very consistent across platforms.
+     Uses the Electron framework, which is heavyweight but very      consistent across platforms.
 CONS:Requires registration
 
 
 2.SmartGit(https://www.syntevo.com/smartgit/)
     
-    . No need to install and configure additional tools.
-        SmartGit comes
-   	Git-Flow
-	SSH-client
-	File Compare/Merge
-    . SmartGit can be customized very detailed:
-	Filtering of displayed information,
-	Layout of certain views
-	External tools
-	Compare or Conflict Solver tools
-	Keyboard shortcuts (mnemonics)
-	Toolbars
-	Syntax coloring
-	Themes
-    . SmartGit comes with special integrations for GitHub, BitBucket and Atlassian Stash to create and resolve Pull Requests and Review Comments.
+No need to install and configure additional tools.
+SmartGit comes with Git-Flow,SSH-client,File Compare/Merge
+SmartGit can be customized:
+Filtering of displayed information,Layout of certain views
+External tools,Compare or Conflict Solver tools,Keyboard shortcuts (mnemonics),Toolbars,Syntax coloring,Themes
+
+SmartGit comes with special integrations for GitHub, BitBucket and Atlassian Stash to create and resolve Pull Requests and Review Comments.
   
 PROS: SmartGit has a rather clean and uncluttered user interface.
       Auto-detects repositories on disk
@@ -62,10 +47,10 @@ PROS: SmartGit has a rather clean and uncluttered user interface.
 CONS:Proprietary license.Not an open source license.
      Some of the git functionality has been renamed
 
-3. GitKraken
+3.GitKraken
 
-   GitKraken is a Git client built on Electron, allowing it to run natively on Windows, Mac and Linux desktop systems.
-    . GitKraken is a Git client built on Electron, allowing it to run natively on Windows, Mac and Linux desktop systems.
-    . A Faster, more Fluid Workflow
-    . Clone, add remotes & open pull requests
-    . In-App Merge Tool
+GitKraken is a Git client built on Electron, allowing it to     run natively on Windows, Mac and Linux desktop systems.
+GitKraken is a Git client built on Electron, allowing it to run natively on Windows, Mac and Linux desktop systems.
+A Faster, more Fluid Workflow
+Clone, add remotes & open pull requests
+In-App Merge Tool
